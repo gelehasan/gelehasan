@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a skilled Junior React and TypeScript Developer. I'm deeply passionate about crafting engaging web applications. My journey in front-end development has sparked an ambition to evolve into a Full Stack developer, focusing on the .NET Framework.
+
+
+
 <!--
 **gelehasan/gelehasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
