@@ -19,7 +19,7 @@
 
 
 
-<span>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gelehasan&show_icons=true&locale=en" alt="gelehasan" /></span>
-<span><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gelehasan&show_icons=true&locale=en&layout=compact" alt="gelehasan" /></span>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gelehasan&show_icons=true&locale=en" alt="gelehasan" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gelehasan&show_icons=true&locale=en&layout=compact" alt="gelehasan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gelehasan&" alt="gelehasan" /></p>
