@@ -3,7 +3,6 @@
 Comfortable with Python, C/C++,PowerShell and poking around Windows internals.</h3>
 <img align="right" alt="Coding" width="400" src= "https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/>
 
-- 🙌 currently collaborating with my little brother in cyber security related projects [Lawliet](https://github.com/LawlietDN)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
