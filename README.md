@@ -1,5 +1,6 @@
 <h1 align="center"> About me 🚀 </h1>
-<h3 align="left">I am a skilled Junior React and TypeScript Developer. I'm deeply passionate about crafting engaging web applications. My journey in front-end development has sparked an ambition to evolve into a Full Stack developer, focusing on the .NET Framework.</h3>
+<h3 align="left">I enjoy fix things, break things  and sometimes write code that does both. I’m into pentesting CTFs and learning how stuff works at a low level.
+Comfortable with Python, C/C++,PowerShell and poking around Windows internals.</h3>
 <img align="right" alt="Coding" width="400" src= "https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/>
 
 - 🙌 currently collaborating on [Unique Garment Project](https://github.com/gelehasan/Unique-Garments-website-Group-project-)
